@@ -24,8 +24,10 @@ Display the filtered image using plot and imshow.
 
  
 ## Program:
+~~~
 Developed By: Ragul M
 Reg no:212221230080
+~~~
 ~~~
 import cv2
 import matplotlib.pyplot as plt
