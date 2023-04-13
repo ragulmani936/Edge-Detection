@@ -116,15 +116,15 @@ SOBEL X:
 ![img 1](https://user-images.githubusercontent.com/94881918/231670210-d9981fe2-6786-42cb-936c-5ffd0ac0bd23.png)
 
 SOBEL Y:
-![img 2]()
+![img 2](https://github.com/ragulmani936/Edge-Detection/blob/main/img%202.png)
 SOBEL XY:
-![img 3]()
+![img 3](https://github.com/ragulmani936/Edge-Detection/blob/main/img%203.png)
 ### LAPLACIAN EDGE DETECTOR
 
-![img 4]()
+![img 4](https://github.com/ragulmani936/Edge-Detection/blob/main/img%204.png)
 
 ### CANNY EDGE DETECTOR
-![img 5]()
+![img 5](https://github.com/ragulmani936/Edge-Detection/blob/main/img%205.png)
 
 ## Result:
 Thus the edges are detected using Sobel, Laplacian, and Canny edge detectors.
